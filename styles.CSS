@@ -1,0 +1,17 @@
+P{
+    background-color: cornsilk;
+    color:brown
+}
+#main-content{
+    background-color: lightblue;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+.section-text{
+    font-size: 15px;
+    color: darkblue;
+    text-align: right;
+}
+*{
+    font-family: "Segoi UI", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
